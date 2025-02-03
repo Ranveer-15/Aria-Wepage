@@ -84,7 +84,7 @@ html{
   .hero {
     min-width: 100%;
     height: 892px;
-    background: url(images/header-background.jpg);
+    background: url(Images/header-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -335,7 +335,7 @@ html{
   }
   .area-image{
     width: 50%;
-    background: url("images/details-1-background.jpg");
+    background: url("Images/details-1-background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -398,7 +398,7 @@ html{
     margin-top: 7rem;
   }
   #area-2>.area-image{
-    background: url("images/details-2-background.jpg");
+    background: url("Images/details-2-background.jpg");
   }
   .text-area-options{
     /* background-color: red; */
@@ -586,7 +586,7 @@ html{
     padding: 0 5%;
     position: relative;
     appearance: none;
-    background-image: url("images/down-arrow.png");
+    background-image: url("Images/down-arrow.png");
     background-position: 98% 53%;
     background-repeat: no-repeat;
   }
@@ -670,13 +670,13 @@ html{
     background-color: #14bf98;
     color: #eff6f9;
   }
-  .project-images{
+  .project-Images{
      width: 100%;
     display: grid;
     grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(4, 1fr);
   }
-  .project-images .project-view{
+  .project-Images .project-view{
     width: 100%;
     height: 200px;
     overflow: hidden;
